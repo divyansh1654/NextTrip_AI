@@ -121,7 +121,7 @@ function Header() {
         ) : (
           <Button 
             onClick={() => setOpenDialog(true)} 
-            className="bg-gradient-to-r from-purple-400 to-pink-500 text-white hover:bg-gradient-to-l hover:scale-105 transition duration-300 transform"
+            className="bg-gradient-to-r from-[#020024] to-[#ff8f00] text-white hover:bg-gradient-to-l hover:scale-105 transition duration-300 transform"
           >
             Sign in
           </Button>
